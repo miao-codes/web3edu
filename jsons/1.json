@@ -1,7 +1,7 @@
 {
     "description": "This is Frogdog :)", 
     "external_url":"https://ipfs.io/ipfs/QmPKpQP2L1fhrZ5QL7v4anf1YJ2tG2rzCjnEJEpCkLAeKS/1.png", 
-    "image": "https://ipfs.io/ipfs/QmPKpQP2L1fhrZ5QL7v4anf1YJ2tG2rzCjnEJEpCkLAeKS/1.png", 
+    "image": "ipfs://QmPKpQP2L1fhrZ5QL7v4anf1YJ2tG2rzCjnEJEpCkLAeKS/1.png", 
     "name": "frogdog",
     "attributes": [
         {

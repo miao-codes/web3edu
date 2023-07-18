@@ -1,7 +1,7 @@
 {
     "description": "This is appple :)", 
     "external_url":  "https://ipfs.io/ipfs/QmPKpQP2L1fhrZ5QL7v4anf1YJ2tG2rzCjnEJEpCkLAeKS/4.png", 
-    "image":  "https://ipfs.io/ipfs/QmPKpQP2L1fhrZ5QL7v4anf1YJ2tG2rzCjnEJEpCkLAeKS/4.png", 
+    "image":  "ipfs://QmPKpQP2L1fhrZ5QL7v4anf1YJ2tG2rzCjnEJEpCkLAeKS/4.png", 
     "name": "appple",
     "attributes": [
         {
