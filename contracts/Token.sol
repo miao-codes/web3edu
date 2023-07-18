@@ -1,11 +1,14 @@
 //SPDX-License-Identifier: MIT
-// SPDX-License-Identifier: SEE LICENSE IN LICENSE
-pragma solidity  solidity ^0.8.0;
+pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract Token is ERC20 {
-    constructor(uint256 initialSupply) ERC20("Name", "Symbol") {
+    constructor(uint256 initialSupply) ERC20("CYJToken", "CYJ") {
         _mint(msg.sender, initialSupply);
+    }
+
+    function decimals() public view virtual override returns (uint8) {
+        return 0;
     }
 }
